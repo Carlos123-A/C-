@@ -4,7 +4,7 @@ import json
 import requests
 
 # Configuraciones básicas
-SERVER_IP = '192.168.0.28'  
+SERVER_IP = '---'  
 SERVER_USER = 'your_user'     
 PRIVATE_KEY_PATH = '/path/to/your/private/key'  
 CONTAINER_NAME = 'op'         
